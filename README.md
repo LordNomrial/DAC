@@ -2,4 +2,7 @@
 DAC | Dog's Anti Cheat
 
 ----[TOS]----
-ee
+
+- You cannot resell or redistribute this script
+
+- Cracking this system is not allowed
