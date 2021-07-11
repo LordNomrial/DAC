@@ -2,5 +2,5 @@
 DAC | Dog's Anti Cheat
 
 ----[TOS]----
-- You cannot resell this script
-- eee
+- You cannot resell this script.
+- You cannot redistribute this script.
