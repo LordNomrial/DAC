@@ -14,7 +14,7 @@ DAC | Dog's Anti Cheat
 	<!--
 		@page { margin-left: 1.72cm; margin-right: 1cm }
 	-->
-
+	</STYLE>
 </HEAD>
 <BODY LANG="de-DE" DIR="LTR">
 <P> 
