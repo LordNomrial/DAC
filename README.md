@@ -9,7 +9,6 @@ DAC | Dog's Anti Cheat
 	<META NAME="CREATED" CONTENT="0;0">
 	<META NAME="CHANGEDBY" CONTENT="Phillip Ernst">
 	<META NAME="CHANGED" CONTENT="20210712;11473642">
-	<STYLE TYPE="text/css">
 	<!--
 		@page { margin-left: 1.72cm; margin-right: 1cm }
 	-->
