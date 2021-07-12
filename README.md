@@ -5,7 +5,7 @@ DAC | Dog's Anti Cheat
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<TITLE></TITLE>
+	<TITLE></TITLE> test
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.10  (Win32)">
 	<META NAME="CREATED" CONTENT="0;0">
 	<META NAME="CHANGEDBY" CONTENT="Phillip Ernst">
@@ -46,7 +46,7 @@ DAC | Dog's Anti Cheat
 	</P>
 	<LI><P><U>Modification or Distribution of the Service.</U> Upon
 	Modification or Distribution of DAC or any other related services,
-	we reserve our right to revoke your license without prior notice.
+	we reserve our right to revoke your license and we may DMCA you without prior notice.
 	You may also be excluded to take part in any other related services
 	or events.</P>
 </OL>
